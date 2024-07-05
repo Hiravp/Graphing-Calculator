@@ -9,7 +9,7 @@ def plot_function(expression, x_range=(-10, 10), num_points=1000):
 def input_function():
     expr = input("Enter a function f(x): ")
     expr = expr.replace("^", "**")  # Replace ^ with ** for exponentiation
-    return lambda x: eval(expr)
+    return lambda x: eval((expr))
 
 def main():
     print("Welcome to the Python Graphing Calculator")
