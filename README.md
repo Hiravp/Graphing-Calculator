@@ -23,8 +23,9 @@ Enter a function f(x) input, for example i entered below
 
 ```sh
 x**2
+```
 
 you will see graph as shown below
 
-    ![ ](docs/images/graphexample.png)
+ ![ ](docs/images/graphexample.png)
 
